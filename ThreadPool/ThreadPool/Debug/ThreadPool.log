@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CPP_DEMO\DEMO\ThreadPool\ThreadPool\ThreadPrimary.h(55,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\CPP_DEMO\DEMO\ThreadPool\ThreadPool\ThreadPool.h(136,86): warning C4018: “<”: 有符号/无符号不匹配
+  ThreadPool.vcxproj -> D:\CPP_DEMO\DEMO\ThreadPool\Debug\ThreadPool.exe
