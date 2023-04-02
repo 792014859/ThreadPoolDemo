@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\CPP_DEMO\ThreadPool\ThreadPool\StealTaskQueue.h(73,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\CPP_DEMO\ThreadPool\ThreadPool\StealTaskQueue.h(71): message : 在编译 类 模板 成员函数“void StealTaskQueue<OrdinaryTask>::adjust(void)”时
+D:\CPP_DEMO\ThreadPool\ThreadPool\StealTaskQueue.h(65): message : 查看对正在编译的函数 模板 实例化“void StealTaskQueue<OrdinaryTask>::adjust(void)”的引用
+D:\CPP_DEMO\ThreadPool\ThreadPool\ThreadPrimary.h(71): message : 查看对正在编译的 类 模板 实例化“StealTaskQueue<OrdinaryTask>”的引用
+D:\CPP_DEMO\ThreadPool\ThreadPool\StealTaskQueue.h(74,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ThreadPool.vcxproj -> D:\CPP_DEMO\ThreadPool\x64\Debug\ThreadPool.exe
